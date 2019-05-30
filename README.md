@@ -1,4 +1,4 @@
-# Trendyol Challenge
+# Classification on fashion-mnist dataset with Keras on Docker
 
 This repository contains a work on Zalando Mnist dataset with Keras with Tensorflow backend via Jupyter
 Notebook over Docker.
